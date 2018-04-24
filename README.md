@@ -1,1 +1,1 @@
-# HEIG-VD
+# INF2_Labo05
